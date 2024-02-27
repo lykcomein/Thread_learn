@@ -21,5 +21,100 @@
     <ClCompile Include="thread_day01.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="thread_day02.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_day03.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_day04.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_day05.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="thread_day06.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day07.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day08_CSP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day08_CSP_atm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Thread_day15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Thread_pool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="atm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dispatcher.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="message.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bank_matchine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="withdraw_msg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="interface_matchine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueLk.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularqueSeq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueLight.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueSync.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadSafeQue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreadSafeStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="myclass1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="threadsafetable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
