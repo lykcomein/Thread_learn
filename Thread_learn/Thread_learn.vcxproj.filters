@@ -66,6 +66,9 @@
     <ClCompile Include="Thread_day15.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Thread_day16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Thread_pool.h">
@@ -114,6 +117,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="threadsafetable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="threadsafelist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tailpushlist.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

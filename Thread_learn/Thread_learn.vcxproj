@@ -180,7 +180,10 @@
     <ClCompile Include="Thread_day14.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Thread_day15.cpp" />
+    <ClCompile Include="Thread_day15.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Thread_day16.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="atm.h" />
@@ -194,6 +197,8 @@
     <ClInclude Include="message.h" />
     <ClInclude Include="MyClass.h" />
     <ClInclude Include="myclass1.h" />
+    <ClInclude Include="tailpushlist.h" />
+    <ClInclude Include="threadsafelist.h" />
     <ClInclude Include="ThreadSafeQue.h" />
     <ClInclude Include="ThreadSafeStack.h" />
     <ClInclude Include="threadsafetable.h" />
